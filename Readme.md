@@ -2,7 +2,7 @@
 
 A real-time Boids simulation powered by [NumDot](https://github.com/Ivorforce/NumDot) — a tensor math and scientific computation library for the [Godot](https://godotengine.org) game engine.
 
-![Boids Demo Animation](https://github.com/kro-ma/NumDot/assets/boids_demo.gif)
+![Boids Demo Animation](https://github.com/kro-ma/NumDot/boids_demo.gif)
 
 ---
 
