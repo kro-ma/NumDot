@@ -22,7 +22,7 @@ For a comparison between NumPy, xtensor, and NumDot, see [this overview](https:/
 - [Changelog](https://numdot.readthedocs.io/en/latest/setup/changelog.html)
 - [Class Reference](https://numdot.readthedocs.io/en/latest/classes/index.html)
 - [How to contribute](https://github.com/Ivorforce/NumDot/blob/main/CONTRIBUTING.md)
-- **[Boids Demo Documentation (PDF)](https://github.com/kro-ma/NumDot/boids_demo_documentation.pdf)**
+- **[Boids Demo Documentation (PDF)](https://github.com/kro-ma/NumDot/blob/main/boids_demo_documentation.pdf)**
 
 ---
 
